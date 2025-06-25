@@ -6,6 +6,6 @@ I'm a software engineer with a passion for tech and building responsive website.
 🌱 I’m currently learning HTML, CSS, javaScript
 🔭 I’m currently working on creating webpages and learning how to progam.
 😀 I like to code, read, and sleep.
-⚡ Fun fact: I love working out.
+⚡ Fun fact:  I talk to my code like it can hear me… and sometimes, it listens.
 📫 Reach me on x or email
 😄 Pronouns: She/Her
